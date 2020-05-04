@@ -1,0 +1,7 @@
+@mixin po-ab($top, $right, $left, $bottom) {
+  position: absolute;
+  top: $top;
+  right: $right;
+  left: $left;
+  bottom: $bottom;
+}
